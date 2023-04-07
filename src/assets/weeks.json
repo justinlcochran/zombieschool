@@ -2,29 +2,59 @@
   {
     "week": 1,
     "activities": [
-      "Activity 1",
-      "Activity 2",
-      "Activity 3",
-      "Activity 4",
-      "Activity 5",
-      "Activity 6",
-      "Activity 7",
-      "Activity 8",
-      "Activity 9"
+      {
+        "title": "I Will Survive",
+        "description": "Test your survival knowledge!!",
+        "instructions": "After reading the article, answer the following questions in your journal:\n\n1. In an apocalypse situation, which team member are you?\n2. Would York International be a good location for your team to use as a rendezvous site?\n3. What will you need to bring with you into the zombie apocalypse?\n4. Why is humanity important?",
+        "link": "https://theweek.com/articles/443278/complete-guide-surviving-zombie-apocalypse"
+      },
+      {
+        "title": "Homemade Zombie Slime",
+        "description": "Zombie Slime Science Experiment",
+        "instructions": "Use this simple recipe to make your own Zombie Slime! You can add green food coloring for Zombies, Red for blood red slime, or pink for Zombie Brain Slime :)",
+        "link": "https://www.iheartnaptime.net/homemade-slime/"
+      },
+      {
+        "title": "Zombie Multiplication",
+        "description": "Zombie Math Practice",
+        "instructions": "Play Zombie Multiplication - Unlock One Level called The Hillside in the cemetery to complete this task!\n\nYou will need to correctly answer 25 questions to move on.",
+        "link": "https://mrnussbaum.com/the-multiplication-zombies-of-the-brittany-graveyard-online-game"
+      },
+      {
+        "title": "Outrunning the Zombies!",
+        "description": "Exercise for the Apocalypse",
+        "instructions": "Use the Jump Rope provided in your kit - Time how long you can jump without stopping!  Write your time in your notebook.\n\nAfter you have one trial completed - see if you can beat your time later this week!\n",
+        "link": "https://www.timeanddate.com/stopwatch/"
+      },
+      {
+        "title": "Zombie Launcher",
+        "description": "The Physics of Zombie Launching",
+        "instructions": "Play Zombie Launcher to test your physics skills- Record your High Score in your journal! ",
+        "link": "https://www.coolmathgames.com/0-zombie-launcher"
+      },
+      {
+        "title": "Zombie Mad Libs",
+        "description": "Hilarious Zombie Storytelling",
+        "instructions": "Call a friend and ask them to help you complete the Mad Lib in the link below. Glue your completed mad lib in your journal.",
+        "link": "https://docs.google.com/document/d/1XVruTE2TGphXQJDZfxxpF0CxlzIjbB3Q63rgTOirilY/edit?usp=sharing"
+      },
+      {
+        "title": "Zombie Hideout Scavenger Hunt",
+        "description": "How well do you know your Colorado Geography?",
+        "instructions": "Use these clues to discover one of the best Zombie hideouts in Colorado. Write the answer in your journal and describe what you know about this location!",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSebhxRLb-SbdX-b8SedgU99RURjEA28068-Ski7QKiz6953pQ/viewform?usp=sf_link"
+      },
+      {
+        "title": "Zombie Survival Rules",
+        "description": "Writing a List of Rules to Survive By",
+        "instructions": "Based on all you have learned this week - create a list of rules we should follow for surviving the Zombie Apocalypse! Glue or copy your list into your journal.",
+        "link": "https://docs.google.com/document/d/1YMEcNOqxSzzZ7amKW4Ig-c8clR3_s9P8usg3Xm2NPkM/edit"
+      }
     ]
   },
   {
     "week": 2,
     "activities": [
-      "Activity a",
-      "Activity b",
-      "Activity c",
-      "Activity d",
-      "Activity e",
-      "Activity f",
-      "Activity g",
-      "Activity h",
-      "Activity i"
     ]
   }
 ]

@@ -4,6 +4,7 @@ import './App.css';
 import Banner from "./components/Banner";
 import ActivityModal from "./components/ActivityModal";
 import Home from "./pages/Home";
+import Week from "./components/Week";
 
 function App() {
   return (

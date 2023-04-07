@@ -24,7 +24,7 @@ function Home() {
   return (
     <div>
       {weeks.map((week, index) => (
-        <Week week={week} index={index} />
+        <Week week={week} index={index + 1} setShowModal={setShowModal} />
       ))}
       <button
         className={"bg-blue-500 text-white font-bold round-lg p-4"}
