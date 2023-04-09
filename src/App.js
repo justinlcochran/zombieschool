@@ -8,7 +8,7 @@ import Week from "./components/Week";
 
 function App() {
   return (
-    <div className="App bg-white h-screen">
+    <div className="App h-screen">
       <BrowserRouter>
         <Routes>
             <Route exact path='/' element={<Home />} />
