@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, { useState } from "react";
 import { ReactComponent as CaretDown } from "../assets/caret-down-bold-svgrepo-com.svg";
 
 function Week({ week, index, setShowModal, date }) {
@@ -49,6 +49,7 @@ function Week({ week, index, setShowModal, date }) {
                 >
                   {week.activities.map((activity, index) => (
                       <div
+                          key={index}
                           className={"p-4 bg-violet-700 rounded-xl hover:bg-violet-600 cursor-pointer select-none my-auto font-bold text-2xl"}
                           onClick={() => setShowModal(activity)}>
                         {activity.title}
