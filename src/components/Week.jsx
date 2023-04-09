@@ -19,7 +19,7 @@ function Week({ week, index, setShowModal, date }) {
             <div>
               <div className="m-auto h-auto w-11/12 mb-1">
                 <div
-                    className="flex justify-between items-center px-4 bg-gray-600 hover:bg-gray-700 cursor-pointer p-4 rounded-t-2xl rounded-bl-2xl "
+                    className="flex justify-between items-center px-4 bg-gray-600 p-4 rounded-t-2xl rounded-bl-2xl "
 
                 >
                   <h1 className="leading-8 text-2xl font-medium select-none">{`Week ${index}:`}</h1>
