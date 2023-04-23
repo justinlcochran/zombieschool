@@ -28,7 +28,25 @@ function ActivityModal({modalContent, onClose}) {
                                 <p className="mb-2 text-center font-bold text-lg">Instructions:</p>
                                 <p>{modalContent.instructions}</p>
                             </div>
-                            <a href={modalContent.link} target={"_blank"} ><div className={"whitespace-pre-wrap p-4 text-left bg-fuchsia-900 hover:bg-fuchsia-800 text-center rounded-lg"}><p>Click me!</p></div></a>
+                            {(typeof (modalContent.link) === "string") ?
+                                <a href={modalContent.link} target={"_blank"}>
+                                    <div
+                                        className={"whitespace-pre-wrap p-4 text-left bg-fuchsia-900 hover:bg-fuchsia-800 text-center rounded-lg"}>
+                                        <p>Click me!</p></div>
+                                </a>
+                            :
+                                <div className={"grid grid-cols-2 gap-2"}>
+                                    <a href={modalContent.link[0].url} target={"_blank"}>
+                                        <div className={"whitespace-pre-wrap p-4 text-left bg-fuchsia-900 hover:bg-fuchsia-800 text-center rounded-lg"}>
+                                            <p>{modalContent.link[0].title}</p>
+                                        </div>
+                                    </a>
+                                    <a href={modalContent.link[1].url} target={"_blank"}>
+                                        <div className={"whitespace-pre-wrap p-4 text-left bg-fuchsia-900 hover:bg-fuchsia-800 text-center rounded-lg"}>
+                                            <p>{modalContent.link[1].title}</p>
+                                        </div>
+                                    </a>
+                                </div>}
                         </div>
                     </div>
                 </div>

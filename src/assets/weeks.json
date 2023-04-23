@@ -55,6 +55,55 @@
   {
     "week": 2,
     "activities": [
+      {
+        "title": "Zombie Genetics",
+        "description": "What will your zombie look like?",
+        "instructions": "Create your own zombie character by rolling the ‘genetic’ dice. When you're done, draw your zombie in your journal! The directions are linked below:",
+        "link": [{"title":  "Article", "url": "https://kids.britannica.com/kids/article/genetics/353170"}, {"title": "Activity Page", "url": "https://docs.google.com/document/d/12k8rWutangUnYfRtM6BOTCxB4ZOie0pD6qtFmxqoDIs/edit?usp=sharing"}]
+      },
+      {
+        "title": "Unlock the Morgue",
+        "description": "Mastering Zombie Mathematics",
+        "instructions": "You have a choice…\n\nIf you need practice, continue to work on Zombie Multiplication by unlocking The Morgue\n\nIf you are more of a Mathematical Genius try the Pre-Algebra Spider Game\n\nRecord your score in your journal for Week 2!!",
+        "link": [{"title":  "Zombie Multiplication", "url": "https://mrnussbaum.com/the-multiplication-zombies-of-the-brittany-graveyard-online-game"}, {"title": "Pre-Algebra Spider Game", "url": "https://www.mathplayground.com/index_prealgebra.html"}]
+      },
+      {
+        "title": "Literature Scavenger Hunt",
+        "description": "Summer Reading",
+        "instructions": "Read a chapter from a book - any book you find interesting. If you are not currently reading a book pick a new one! Answer the questions in the link in your journal for Week 2!",
+        "link": "https://docs.google.com/forms/d/1xo8BYGvEIYyd5h3UgppyS5fTeP2ccA_Tyr-hWj0FhM8/"
+      },
+      {
+        "title": "Zombies Around the World",
+        "description": "Visiting Famous World Landmarks",
+        "instructions": "Use Google Earth to find each of the following famous landmarks. Once you find it type in where the landmark is located,  what it is (ex: natural landmark, church, ancient ruin etc.) explore the site from all angles in 3-D view\n\nThen answer the Where in The World questions in your notebook for Week 2!",
+        "link": [{"title":  "Google Earth", "url": "https://earth.google.com/"}, {"title": "Where in the World", "url": "https://docs.google.com/forms/d/1XLZ87ybhLnlTGvi6lU3K41nmHW35FS-x4Lm8m7cSSIA/edit"}]
+      },
+      {
+        "title": "Do Zombies Laugh?",
+        "description": "Making Zombie Memes or Comics",
+        "instructions": "This is your chance to get creative. Either search the web or draw your own Zombie MEME or Comic Strip. You may work digitally or with paper and pencil - grab a marker to add some color!! You can do this in your notebook or wherever you feel comfortable.\n(Bonus points if it tells a story)",
+        "link": "https://www.canva.com"
+      },
+      {
+        "title": "Monster Maker",
+        "description": "Decoding Monster DNA",
+        "instructions": "Read the Monster Story. At the end of the reading, there is a decoder game. In order to complete the game online use this link: Monster Decoder Game.\n\nWrite the decoded message in your notebook and draw the monster.\n\nNote: If you are colorblind, click on the eyeball at the top left of the monster maker that will change the game to symbols.",
+        "link": [{"title":  "Monster Story", "url": "https://askabiologist.asu.edu/sites/default/files/side-pdf/monster_story_magcloud_cjk.pdf"}, {"title": "Monster Decoder Game", "url": "https://askabiologist.asu.edu/monster-maker-game/play.html"}]
+      },
+      {
+        "title": "In the Dead of Night",
+        "description": "Zombie Madlibs",
+        "instructions": "Call a friend and ask them to help you complete the Mad Lib - the funnier the better! Glue or copy your completed Madlib in your notebook.",
+        "link": "https://docs.google.com/document/d/1lvayN1vn3FGbP0vpdV6zByH-il8ECiOryrwbPqaDb0U/edit"
+      },
+      {
+        "title": "Survivors Ice Cream",
+        "description": "I scream, you scream, we all scream for ICE CREAM!",
+        "instructions": "After your heroic escape, celebrate with a bag of Homemade Ice Cream!",
+        "link": "https://www.sciencebuddies.org/stem-activities/ice-cream-bag#materials"
+      }
+
     ]
   },
   {

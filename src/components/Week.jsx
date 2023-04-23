@@ -51,7 +51,7 @@ function Week({ week, index, setShowModal, date }) {
                     /* The transition requires starting and ending heights not be dynamic so we must set those heights via js.
                     Overflow used to hide items - we are not conditionally rendering the expanded items
                     since the collapsing transition closes immediately when the items are not rendered. */
-                    className={`overflow-scroll grid grid-cols-2 md:grid-cols-4 gap-2 p-2 min-h-full rounded-b-2xl transition-all duration-300 ease-in-out bg-blue-950 w-[90%] ml-auto mr-0
+                    className={`overflow-auto no-scrollbar  grid grid-cols-2 md:grid-cols-4 gap-2 p-2 min-h-full rounded-b-2xl transition-all duration-300 ease-in-out bg-blue-950 w-[90%] ml-auto mr-0
       ${expanded ? "opacity-100" : "opacity-0"}
       `}
                     // use style instead of tailwind since height is programmatically generated
