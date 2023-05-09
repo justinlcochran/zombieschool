@@ -109,6 +109,54 @@
   {
     "week": 3,
     "activities": [
+      {
+        "title": "Zombie Starfish",
+        "description": "Zombies Invading the Ocean",
+        "instructions": "Watch the video  ZOMBIE STARFISH \n\nThe video is a little over 5 minutes long.\n\nAfter you watch the video, predict what will happen next in your journal using the questions below:\n",
+        "link": [{"title":  "Zombie Starfish Video", "url": "https://www.youtube.com/watch?v=KrfcglOmBYw"}, {"title": "Ecosystem Questions", "url": "https://docs.google.com/forms/d/e/1FAIpQLSc5fZV7oGCqrDbel19O_0u1AalCKKnRHmKEs3tmqRhvo_uRrA/viewform?usp=sf_link"}]
+      },
+      {
+        "title": "Zombie Character Creation",
+        "description": "Who is your Zombie",
+        "instructions": "In your journal use these questions to develop the Zombie you created in last week’s Zombie Genetics activity into a complete character!",
+        "link": "https://docs.google.com/forms/d/1UAvlhlo-4pH_c--PyG0oN_bMZZ9W-yLzOkPK6AQLRKk/edit"
+      },
+      {
+        "title": "Zombie Escape!",
+        "description": "Escaping Colorado's Zombie Invasion",
+        "instructions": "Zombies have invaded Colorado and have also made the road impassable - read the Governor's orders to figure out how to escape Colorado’s Zombie Invasion! Use the maps below to help you.",
+        "link": [{"title":  "Escape!", "url": "https://docs.google.com/forms/d/1eeKGcHUx8rE9Y2_479CZuCgsSbhXxPe0gobUYq0IaFY/edit?ts=5ee7d4e3"}, {"title": "Maps", "url": "https://unco.maps.arcgis.com/apps/webappviewer/index.html?id=1d7c492f27364e549e6ceba648b20e78"}]
+      },
+      {
+        "title": "Unlock the Stream",
+        "description": "Mastering Zombie Mathematics",
+        "instructions": "You have a choice…\n\nIf you need practice, continue to work on Zombie Multiplication by unlocking The Stream\n\nIf you are more of a Mathematical Genius try the Algebra Puzzle\n\nRecord your score in your journal for Week 3!!",
+        "link": [{"title":  "Zombie Multiplication", "url": "https://mrnussbaum.com/the-multiplication-zombies-of-the-brittany-graveyard-online-game"}, {"title": "Algebra Puzzle", "url": "https://www.mathplayground.com/algebra_puzzle.html"}]
+      },
+      {
+        "title": "Reading Between Zombie Attacks",
+        "description": "Independent Reading",
+        "instructions": "Read any book of your choice for 20 minutes.\n\nOnce you read for 20 minutes, answer the Google Form questions in your journal for Week 3!",
+        "link": "https://docs.google.com/forms/d/16IsKjGFeTiKCT6QiSuBGjSYWslTFfBseBkc1ur1HB5I/edit"
+      },
+      {
+        "title": "Survival Cooking",
+        "description": "Cooking During the Zombie Apocalypse",
+        "instructions": "You still need to eat when you are on the run from zombies. Below are the materials and steps needed to make food with the sun’s energy: ",
+        "link": "https://docs.google.com/document/d/1YNCqcQr0fNsKMXitjSLJkeQLeXPpkGRx9zwTzNZzYQ0/edit?usp=sharing"
+      },
+      {
+        "title": "Zombie Description",
+        "description": "Show Me With Words!",
+        "instructions": "In your journal, brainstorm as many ADJECTIVES as you can to describe Zombies.\n\nRemember an adjective is a describing word...",
+        "link": "https://easydrawingguides.com/wp-content/uploads/2022/01/how-to-draw-a-creepy-zombie-featured-image-1200-734x1024.png"
+      },
+      {
+        "title": "Zombie Workout",
+        "description": "Get in Shape to Escape",
+        "instructions": "When the Zombies invade you have to be faster and sharper than your best friend and your little brother. Use this workout to get into Escape Shape!",
+        "link": "https://www.youtube.com/watch?v=p3O8KbmTMeE"
+      }
     ]
   },
   {
