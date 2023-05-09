@@ -7,7 +7,7 @@ function Week({ week, index, setShowModal, date }) {
   const toggleExpanded = () => {
     setExpanded(!expanded);
   };
-  const release = new Date('2023-05-23');
+  const release = new Date('2023-05-03');
   release.setDate(release.getDate() + (7 * (index - 1)));
   const dayDiff = Math.floor((release - date) / (1000 * 60 * 60 * 24));
   const hourDiff = Math.floor(((release - date) % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
@@ -24,7 +24,7 @@ function Week({ week, index, setShowModal, date }) {
 
   return (
       <>
-        { dayDiff >= 0 && dayDiff < 8 ? (
+        { dayDiff > 1 && dayDiff < 7 ? (
 
             <div>
               <div className="m-auto h-auto w-11/12 mb-1">
@@ -37,7 +37,19 @@ function Week({ week, index, setShowModal, date }) {
                 </div>
               </div>
             </div>
-        ) : dayDiff <= 0 ? (
+        ) : dayDiff === 0 && hourDiff > 0 ? (
+            <div>
+              <div className="m-auto h-auto w-11/12 mb-1">
+                <div
+                    className="flex justify-between items-center px-4 bg-gray-600 p-4 rounded-t-2xl rounded-bl-2xl "
+
+                >
+                  <h1 className="leading-8 text-2xl font-medium select-none">{`Week ${index}:`}</h1>
+                  <h1 className="leading-8 text-2xl font-medium select-none">{`Opens in ${hourDiff} hours`}</h1>
+                </div>
+              </div>
+            </div>
+        ) : dayDiff <= 0 && hourDiff <= 0 ? (
             <div>
               <div className="m-auto h-auto w-11/12 mb-1">
                 <div
