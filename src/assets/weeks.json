@@ -162,26 +162,160 @@
   {
     "week": 4,
     "activities": [
+      {
+        "title": "Zombie Deer",
+        "description": "Zombies in the US!",
+        "instructions": "After reading the article, answer the following questions in your journal:\n\n1. What is a chronic wasting disease?\n2. How many states now have the chronic wasting disease?\n3. Why is chronic wasting disease nicknamed \"zombie\" deer disease?\n4. Which quote from the article best describes why Colorado state officials are trying to conteol the \"Zombie\" deer disease?",
+        "link": "https://www.vox.com/2019/2/21/18233227/zombie-deer-disease-map"
+      },
+      {
+        "title": "Brain Damage",
+        "description": "Diagnosing a Zombie",
+        "instructions": "As a scientist you have to try to stop the spread of the Zombie Apocalypse. In order to stop it, you first have to identify the exact cause.\n\nUse the information from the videos and any other research you care to include to make an argument for which part of the brain is damaged by a Zombie virus.  Think about the Zombie behavior and include reasons in your argument.  Write your argument n your journal.\n",
+        "link": [{"title":  "Video 1: Brain and Body", "url": "https://www.youtube.com/watch?v=dACNHRPdgqc"}, {"title": "Video 2: Brain and Behavior", "url": "https://www.youtube.com/watch?v=XNjvipiJTjY"}]
+      },
+      {
+        "title": "Independent Reading",
+        "description": "Downtime in the Apocalypse",
+        "instructions": "Read a chapter in the book you are currently reading. Once you have read a chapter or two, answer these questions in your journal:\n\n1. One Sentence Summary: Write a summary for the chapter you just read (Somebody did something because...)\n\n2. Think about the protagonist in the book you are reading. If the main character went to York, would you be friends with them? Be sure to include why or why not!",
+        "link": "https://media.istockphoto.com/id/1207872886/vector/young-people-group-reading-books-study-learning-knowledge-and-education-vector-concept.jpg?s=612x612&w=0&k=20&c=s27W9v_rkJSN6KciB6K-ibqYtACw8hJAWQTk4QZh_so="
+      },
+      {
+        "title": "Unlock the Forest",
+        "description": "Mastering Zombie Mathematics",
+        "instructions": "If you need practice, continue to work on Zombie Multiplication by unlocking The Forest…\n",
+        "link": "https://mrnussbaum.com/the-multiplication-zombies-of-the-brittany-graveyard-online-game"
+      },
+      {
+        "title": "Steering Science",
+        "description": "A Homemade Compass",
+        "instructions": "If you are forced to leave your location because of a zombie attack, you can make a compass to lead the way. Staying alive depends on finding your way back to home base! This activity shows you how to make a compass with household materials. ",
+        "link": "https://www.scientificamerican.com/article/steering-science-make-a-homemade-compass/"
+      },
+      {
+        "title": "To Kill a Zombie",
+        "description": "Fighting Back",
+        "instructions": "Go back and look at the Zombie you created in the Zombie Genetics Activity from Week Two. What would you do if this was the Zombie sent to attack you in the Zombie Apocalypse? In your journal, write detailed instructions for how to kill your Zombie!",
+        "link": "https://www.pngitem.com/pimgs/m/243-2432822_plants-vs-zombies-clipart-zombie-king-plants-vs.png"
+      },
+      {
+        "title": "Legends of Learning",
+        "description": "Math Practice",
+        "instructions": "Play the game of your Choice on  Legends of Learning\n\n\nIf you did not use this last year, you may need to create an account. You will use it again for Math class next year. \n",
+        "link": "https://www.legendsoflearning.com/summer/"
+      },
+      {
+        "title": "Out of Sight",
+        "description": "Planning a Hideout",
+        "instructions": "Look at a map of Thornton, Colorado. Decide on the best place to hide during the zombie apocalypse. Draw a map or write directions in your journal to get there from your home. Remember you want to stay out of sight.",
+        "link": "https://www.google.com/maps/place/Thornton,+CO/@39.9156659,-105.0198404,12z/data=!3m1!4b1!4m5!3m4!1s0x876c65534dd3ee71:0xcd7854dd18c9f55c!8m2!3d39.8680412!4d-104.9719243"
+      }
     ]
   },
   {
     "week": 5,
     "activities": [
+      {
+        "title": "Zombie Outbreak",
+        "description": "The Virus is Spreading",
+        "instructions": "Track a Zombie Outbreak in YOUR neighborhood!! Click the link below to create a map of your neighborhood and simulate a Zombie Outbreak! Write in your journal about how fast the Zombie Virus spread in Thornton!",
+        "link": "http://www.class3outbreak.com/"
+      },
+      {
+        "title": "Zombie Fitness",
+        "description": "Be Ready",
+        "instructions": "Complete The 8 Best Exercises for the Zombie Apocalypse Workout",
+        "link": "https://www.youtube.com/watch?v=1i3bU5zV8sI"
+      },
+      {
+        "title": "Don't Drink the Water",
+        "description": "Stay Hydrated",
+        "instructions": "Research three different ways to disinfect contaminated water when you are on the run. List the three different ways and then write the instructions for the best one in your journal. \n",
+        "link": "https://p7.hiclipart.com/preview/282/610/369/water-filter-water-purification-filtration-hourglass.jpg"
+      },
+      {
+        "title": "Hidden in Plain Sight",
+        "description": "Hiding Among the Zombies",
+        "instructions": "You know what they say - \"If you can’t beat them, Join them!\" One way to beat the Zombies is to hide among them. Put together a zombie costume and take pictures!! Use your journal to brainstorm what you will need to make the best zombie disguise",
+        "link": "https://www.pngitem.com/pimgs/m/243-2432822_plants-vs-zombies-clipart-zombie-king-plants-vs.png"
+      },
+      {
+        "title": "Unlock the Plains",
+        "description": "Mastering Zombie Mathematics",
+        "instructions": "Keep practicing that multiplication! Unlock the Plains",
+        "link": "https://mrnussbaum.com/the-multiplication-zombies-of-the-brittany-graveyard-online-game"
+      },
+      {
+        "title": "Zombie Sweet Tooth",
+        "description": "Grow Your Own Candy",
+        "instructions": "Even on the run you may have a sweet tooth to satisfy...\nFollow the instructions in the link to make Rock Candy... Draw your best crystals in your journal!",
+        "link": "https://www.growingajeweledrose.com/2015/02/rock-candy-experiment.html"
+      },
+      {
+        "title": "Zombie Poetry",
+        "description": "Digital Zombies",
+        "instructions": "Check out the poem below titled Digital Zombies \nThen choose ….\n\nWrite your own using the published poem as a model.\n\nOr\n\nWrite a response to the author.",
+        "link": "https://powerpoetry.org/poems/digital-zombies"
+      },
+      {
+        "title": "Legends of Learning",
+        "description": "Math Practice",
+        "instructions": "Play the game of your Choice on  Legends of Learning\n\n\nIf you did not use this last year, you may need to create an account. You will use it again for Math class next year. \n",
+        "link": "https://www.legendsoflearning.com/summer/"
+      }
     ]
   },
   {
     "week": 6,
     "activities": [
-    ]
-  },
-  {
-    "week": 7,
-    "activities": [
-    ]
-  },
-  {
-    "week": 8,
-    "activities": [
+      {
+        "title": "Zombies are Real",
+        "description": "Zombie Insects on Earth",
+        "instructions": "After reading the article, “Zombies are Real,” close your eyes and picture a zombie insect!  In your journal, draw what you just pictured and write 2-3 sentences describing your zombie insect.",
+        "link": "https://docs.google.com/document/d/16f4yiiX-LJ7x1WC24gVy-xSFPjncNQ-_FHFsF-K6PQw/"
+      },
+      {
+        "title": "Survive the Apocalypse",
+        "description": "Zombie Geography",
+        "instructions": "One day, you wake up to hear the news: the zombie apocalypse has started! In order to survive, you and your friends must find the correct path of zombie-free safe zones throughout the world. Good luck, and remember to not get bitten! ",
+        "link": "https://forms.gle/FUGZ1dUG7CVzyf516"
+      },
+      {
+        "title": "Practice in the Cemetery",
+        "description": "Mastering Zombie Mathematics",
+        "instructions": "Keep practicing your multiplication - See how fast you can move through the cemetery!!",
+        "link": "https://mrnussbaum.com/the-multiplication-zombies-of-the-brittany-graveyard-online-game"
+      },
+      {
+        "title": "History of Zombies",
+        "description": "A Global Legend",
+        "instructions": "Almost everyone is familiar with the modern zombie: a shuffling, ravenous, reanimated corpse that terrorizes and eats humans. But since zombies aren’t real, how did their legend get started? Where did the word “zombie” come from?",
+        "link": "https://docs.google.com/forms/d/e/1FAIpQLSdJm3hB68VHY9Su3JyLhBp1sXh1lYvS0k0EV_1vXTfHTanN7Q/viewform?usp=pp_url"
+      },
+      {
+        "title": "Legends of Learning",
+        "description": "Math Practice",
+        "instructions": "Play the game of your Choice on  Legends of Learning\n\n\nIf you did not use this last year, you may need to create an account. You will use it again for Math class next year. \n",
+        "link": "https://www.legendsoflearning.com/summer/"
+      },
+      {
+        "title": "Zombie Pandemic",
+        "description": "Graphic Novel Reading",
+        "instructions": "Read Part 1 of the graphic novel, Zombie Pandemic, and then choose one of the following activities.\n\n1. Pay close attention to what Todd, Julie, and Max do while you are reading. Then, based on their actions, come up with a list of the ten most important items to have in case of a zombie pandemic.\n\n2. The story ends with “to be continued” and leaves your imagination to come up with the ending.  So, how would you end the story?  What happens to Todd, Julie, and Max?\n",
+        "link": "https://drive.google.com/file/d/1iYbNScRB-wYBxWNUlhQv2m07fGlIPv2W/view?usp=sharing"
+      },
+      {
+        "title": "Zombie Butler",
+        "description": "Zombie Mad Libs",
+        "instructions": "With a friend or family member, Complete Quints Guide to getting a Zombie Butler. Write it in your journal!",
+        "link": "https://docs.google.com/document/d/1I9BZn6wVg61jDRdGfsGXcU5xbjvZptVQgeBUTfi63B4/edit"
+      },
+      {
+        "title": "Human Electricity Conductor",
+        "description": "Energy in the Apocalypse",
+        "instructions": "During a zombie apocalypse, it is quite possible that your electricity would go out!  OH NO!!  Now, you have to figure out a way to create some light.  Follow the link below and learn how to turn on a lightbulb using only a balloon and yourself!\n",
+        "link": "https://www.stevespanglerscience.com/lab/experiments/human-conductor/"
+      }
     ]
   }
 ]
